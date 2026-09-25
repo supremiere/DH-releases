@@ -2,6 +2,13 @@
 
 DungeonHelper Windows 배포 버전의 변경사항입니다. 최신 버전부터 정리합니다.
 
+## [v0.6.23](https://github.com/supremiere/DH-releases/releases/tag/v0.6.23) — 2026-09-26
+
+### 기타
+
+- 파티장 입장 실패 시 메뉴부터 재시작 (`d5b655c`)
+- v0.6.23 버전 갱신 (`198fa17`)
+
 ## [v0.6.22](https://github.com/supremiere/DH-releases/releases/tag/v0.6.22) — 2026-09-25
 
 ### 기타
