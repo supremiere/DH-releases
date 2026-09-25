@@ -2,6 +2,17 @@
 
 DungeonHelper Windows 배포 버전의 변경사항입니다. 최신 버전부터 정리합니다.
 
+## [v0.6.21](https://github.com/supremiere/DH-releases/releases/tag/v0.6.21) — 2026-09-25
+
+### 수정
+
+- 업데이트 재실행 확인과 복구 보강 및 단계별 진행률 표시 (`a871f90`)
+- 설치된 앱 재실행 시 추가 권한 창 없이 직접 프로세스 생성 (`ac3dce8`)
+
+### 테스트
+
+- 실제 패키지 교체 및 메인 창 준비 확인 검증 (`18679f8`)
+
 ## [v0.6.20](https://github.com/supremiere/DH-releases/releases/tag/v0.6.20) — 2026-09-25
 
 - 배포 저장소에 버전별 변경 이력(`CHANGELOG.md`)을 추가했습니다.

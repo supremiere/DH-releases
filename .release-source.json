@@ -1,7 +1,6 @@
 {
   "source_repo": "supremiere/Dungeonhelper",
-  "last_version": "0.6.20",
-  "source_commit": "87ff0c5ad4921f120736ae6a587d61d0c3f44a77",
-  "baseline_only": true,
-  "note": "Initial changelog baseline, not binary build provenance. Existing releases predate automatic commit tracking."
+  "last_version": "0.6.21",
+  "source_commit": "ac3dce87ef7a1b2cb8b77b356552a163fa95e6b7",
+  "previous_source_commit": "87ff0c5ad4921f120736ae6a587d61d0c3f44a77"
 }
