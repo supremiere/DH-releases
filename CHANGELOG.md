@@ -2,6 +2,16 @@
 
 DungeonHelper Windows 배포 버전의 변경사항입니다. 최신 버전부터 정리합니다.
 
+## [v0.6.26](https://github.com/supremiere/DH-releases/releases/tag/v0.6.26) — 2026-09-27
+
+### 수정
+
+- 여행자 간식 10초 간격 처리 및 핵심 동작 우선 보장 (`26851c0`)
+
+### 기타
+
+- v0.6.26 배포 버전 갱신 (`d2f9267`)
+
 ## [v0.6.25](https://github.com/supremiere/DH-releases/releases/tag/v0.6.25) — 2026-09-26
 
 ### 수정
