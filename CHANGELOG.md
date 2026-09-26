@@ -2,6 +2,16 @@
 
 DungeonHelper Windows 배포 버전의 변경사항입니다. 최신 버전부터 정리합니다.
 
+## [v0.6.27](https://github.com/supremiere/DH-releases/releases/tag/v0.6.27) — 2026-09-27
+
+### 수정
+
+- 간식 인식 후 클릭 지연 해소 및 게임 창 중앙으로 커서 이동 (`19e55d0`)
+
+### 기타
+
+- v0.6.27 배포 준비 및 릴리즈 커밋 메시지 한글화 (`74d5453`)
+
 ## [v0.6.26](https://github.com/supremiere/DH-releases/releases/tag/v0.6.26) — 2026-09-27
 
 ### 수정
