@@ -2,6 +2,17 @@
 
 DungeonHelper Windows 배포 버전의 변경사항입니다. 최신 버전부터 정리합니다.
 
+## [v0.6.25](https://github.com/supremiere/DH-releases/releases/tag/v0.6.25) — 2026-09-26
+
+### 수정
+
+- 파티장 우연한 만남 자동 스왑 제거 (`2b7ebaf`)
+- AI 커넥트 파티장 입장 확인/복구 루프 결합 (`b576b18`)
+
+### 기타
+
+- v0.6.25 배포 버전 갱신 (`f4439c2`)
+
 ## [v0.6.24](https://github.com/supremiere/DH-releases/releases/tag/v0.6.24) — 2026-09-26
 
 ### 수정
