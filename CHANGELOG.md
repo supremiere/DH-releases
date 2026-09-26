@@ -2,6 +2,20 @@
 
 DungeonHelper Windows 배포 버전의 변경사항입니다. 최신 버전부터 정리합니다.
 
+## [v0.6.24](https://github.com/supremiere/DH-releases/releases/tag/v0.6.24) — 2026-09-26
+
+### 수정
+
+- confirm abyss leader entry using AI Connector region (`2380230`)
+
+### 빌드·배포
+
+- create release archive directory on clean checkout (`6b5a371`)
+
+### 테스트
+
+- verify entry confirmation for all three abyss regions (`123e512`)
+
 ## [v0.6.23](https://github.com/supremiere/DH-releases/releases/tag/v0.6.23) — 2026-09-26
 
 ### 기타
