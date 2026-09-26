@@ -2,6 +2,12 @@
 
 DungeonHelper Windows 배포 버전의 변경사항입니다. 최신 버전부터 정리합니다.
 
+## [v0.6.28](https://github.com/supremiere/DH-releases/releases/tag/v0.6.28) — 2026-09-27
+
+### 수정
+
+- 여행자 간식 클릭 완료 후 15분 재실행 대기 적용 (`d381c6f`)
+
 ## [v0.6.27](https://github.com/supremiere/DH-releases/releases/tag/v0.6.27) — 2026-09-27
 
 ### 수정
