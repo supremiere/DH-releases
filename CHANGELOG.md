@@ -2,6 +2,49 @@
 
 DungeonHelper Windows 배포 버전의 변경사항입니다. 최신 버전부터 정리합니다.
 
+## [v0.6.31](https://github.com/supremiere/DH-releases/releases/tag/v0.6.31) — 2026-10-01
+
+### 추가
+
+- add six-preset boss opening combo recorder (`13a35c5`)
+- 콤보 재생 전후 어시스트 모드 토글 (`1b524ea`)
+- manage portable combos in a top-level preset folder (`ae7e05d`)
+- gate boss combos on ultimate readiness and simplify party startup (`f5a0a13`)
+- 궁극기 재충전 콤보 반복 및 AI Connect 클리어 중단 (`ae453d4`)
+
+### 테스트
+
+- 어시스트 모드 H 토글 검증 (`3627c8b`)
+- H 복귀 검증을 실제 바인딩 경로에 맞춤 (`d05aef6`)
+- 자리비움 H 복귀 동작 반영 (`5d1e23b`)
+- integrate combo cancellation with updated cutscene gate (`5bee6cd`)
+
+### 문서
+
+- 콤보 재생 전후 H 어시스트 토글 명시 (`7fbb19e`)
+- H 복귀 입력 포커스 예외 설명 (`187d4f7`)
+- 자리비움 운용 기준으로 H 복귀 설명 수정 (`cbacd14`)
+- 보스전 오프닝 콤보 명칭 반영 (`97f07ed`)
+
+### 수정
+
+- 게임 창 비활성 시 H 복귀 입력 방지 (`8809068`)
+- 자리비움 운용에서 어시스트 모드 복귀 보장 (`4c32880`)
+- theme preset popup and add Space before automatic H combo (`543c4c9`)
+- wait two seconds then Space before boss approach time (`c3e59d2`)
+- use one-second skip delay and auto-enable cutscene skip (`f296cf3`)
+- rename ultimate option to 궁극기 사용 (`0415e1c`)
+
+### 기타
+
+- 보스룸 스킬 명칭을 보스전 오프닝 콤보로 변경 (`7432c58`)
+- 보스전 오프닝 콤보 설정 제목 통일 (`77ba77a`)
+- bump release version to 0.6.31 (`cad1c79`)
+
+### 빌드·배포
+
+- PR 테스트 빌드 아티팩트 업로드 (`f809aeb`)
+
 ## [v0.6.30](https://github.com/supremiere/DH-releases/releases/tag/v0.6.30) — 2026-10-01
 
 ### 추가
