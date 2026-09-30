@@ -2,6 +2,20 @@
 
 DungeonHelper Windows 배포 버전의 변경사항입니다. 최신 버전부터 정리합니다.
 
+## [v0.6.30](https://github.com/supremiere/DH-releases/releases/tag/v0.6.30) — 2026-10-01
+
+### 추가
+
+- Android StoneMiner 1차 포팅 (`41c3c44`)
+
+### 기타
+
+- 모바일 포팅 코드를 DHmobile로 이동 (`eb2f454`)
+
+### 수정
+
+- v0.6.30 어비스 컷씬 확인 후 완료 탐색 및 60초 제한 제거 (`a06a15d`)
+
 ## [v0.6.29](https://github.com/supremiere/DH-releases/releases/tag/v0.6.29) — 2026-09-29
 
 ### 추가
