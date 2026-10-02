@@ -2,6 +2,24 @@
 
 DungeonHelper Windows 배포 버전의 변경사항입니다. 최신 버전부터 정리합니다.
 
+## [v0.7.4](https://github.com/supremiere/DH-releases/releases/tag/v0.7.4) — 2026-10-03
+
+### 추가
+
+- add mandatory Discord identity and passive drop statistics (`e3229a8`)
+- keep the mining hamster visible below navigation after login (`9141108`)
+- deploy Discord identity and drop statistics API on Cloudflare (`8802b4b`)
+
+### 수정
+
+- dispose login windows safely and verify packaged auth startup (`7975d0a`)
+- identify DungeonHelper explicitly in authentication API requests (`44e29bc`)
+- Discord 로그인 연결과 프로필 사진 표시 수정 (`3a93154`)
+
+### 기타
+
+- Discord 인증 및 통계 배포 버전을 v0.7.4로 갱신 (`17a9d4e`)
+
 ## [v0.7.3](https://github.com/supremiere/DH-releases/releases/tag/v0.7.3) — 2026-10-03
 
 ### 수정
