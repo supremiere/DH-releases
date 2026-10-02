@@ -2,6 +2,16 @@
 
 DungeonHelper Windows 배포 버전의 변경사항입니다. 최신 버전부터 정리합니다.
 
+## [v0.7.5](https://github.com/supremiere/DH-releases/releases/tag/v0.7.5) — 2026-10-03
+
+### 수정
+
+- preserve and recover combo presets across app updates (`38ea522`)
+
+### 기타
+
+- bump version to 0.7.5 for preset preservation fix (`7d465ed`)
+
 ## [v0.7.4](https://github.com/supremiere/DH-releases/releases/tag/v0.7.4) — 2026-10-03
 
 ### 추가
