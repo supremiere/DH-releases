@@ -2,6 +2,20 @@
 
 DungeonHelper Windows 배포 버전의 변경사항입니다. 최신 버전부터 정리합니다.
 
+## [v0.7.0](https://github.com/supremiere/DH-releases/releases/tag/v0.7.0) — 2026-10-02
+
+### 개선
+
+- 완료 탐색 최적화와 부활 작업 분리 및 지역 복구 안정화 (`033cbf2`)
+
+### 추가
+
+- 어비스 진행 상태와 보조 작업 다섯 칸 UI 개선 (`a767fb6`)
+
+### 기타
+
+- 어비스 탐색 구조와 상태 UI 개편에 맞춰 v0.7.0으로 버전 갱신 (`dfd7b4a`)
+
 ## [v0.6.31](https://github.com/supremiere/DH-releases/releases/tag/v0.6.31) — 2026-10-01
 
 ### 추가
