@@ -2,6 +2,16 @@
 
 DungeonHelper Windows 배포 버전의 변경사항입니다. 최신 버전부터 정리합니다.
 
+## [v0.7.3](https://github.com/supremiere/DH-releases/releases/tag/v0.7.3) — 2026-10-03
+
+### 수정
+
+- 창 크기 유지와 입장·재입장 배율 보정 및 간식 오인식 검사 개선 (`7889cb1`)
+
+### 기타
+
+- 이미지 탐색과 창 크기 유지 수정에 맞춰 v0.7.3으로 버전 갱신 (`614b7e5`)
+
 ## [v0.7.2](https://github.com/supremiere/DH-releases/releases/tag/v0.7.2) — 2026-10-03
 
 ### 추가
