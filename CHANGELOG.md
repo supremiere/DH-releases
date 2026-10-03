@@ -2,6 +2,12 @@
 
 DungeonHelper Windows 배포 버전의 변경사항입니다. 최신 버전부터 정리합니다.
 
+## [v0.7.8](https://github.com/supremiere/DH-releases/releases/tag/v0.7.8) — 2026-10-03
+
+### 기타
+
+- Track known dungeon completions without resetting historical totals (`cac1b48`)
+
 ## [v0.7.7](https://github.com/supremiere/DH-releases/releases/tag/v0.7.7) — 2026-10-03
 
 ### 수정
