@@ -2,6 +2,23 @@
 
 DungeonHelper Windows 배포 버전의 변경사항입니다. 최신 버전부터 정리합니다.
 
+## [v0.7.10](https://github.com/supremiere/DH-releases/releases/tag/v0.7.10) — 2026-10-04
+
+### 기타
+
+- Add one-time operator-approved historical abyss attribution (`0cdc1b0`)
+- Classify confirmed pre-0.7.8 abyss clients as Harbor (`bfe6a97`)
+
+### 수정
+
+- limit followup backfill to the four approved runs (`600b1cc`)
+- Discord 인증 갱신 일시 오류와 만료 복구 처리 (`3964256`)
+- honour cancellation when automatic login retry fails (`2d23e6d`)
+
+### 테스트
+
+- make offline profile status deterministic (`10127a7`)
+
 ## [v0.7.9](https://github.com/supremiere/DH-releases/releases/tag/v0.7.9) — 2026-10-03
 
 ### 기타
