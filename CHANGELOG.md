@@ -2,6 +2,13 @@
 
 DungeonHelper Windows 배포 버전의 변경사항입니다. 최신 버전부터 정리합니다.
 
+## [v0.7.9](https://github.com/supremiere/DH-releases/releases/tag/v0.7.9) — 2026-10-03
+
+### 기타
+
+- Add close-to-tray choice and use the existing hamster application icon (`96d09c6`)
+- Exclude disconnected AI Connector users from shared statistics (`b5f0d02`)
+
 ## [v0.7.8](https://github.com/supremiere/DH-releases/releases/tag/v0.7.8) — 2026-10-03
 
 ### 기타
