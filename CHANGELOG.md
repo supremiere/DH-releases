@@ -2,6 +2,12 @@
 
 DungeonHelper Windows 배포 버전의 변경사항입니다. 최신 버전부터 정리합니다.
 
+## [v0.7.11](https://github.com/supremiere/DH-releases/releases/tag/v0.7.11) — 2026-10-04
+
+### 수정
+
+- 실행 중 인증을 통신 장애와 단기 만료에도 유지 (`7359602`)
+
 ## [v0.7.10](https://github.com/supremiere/DH-releases/releases/tag/v0.7.10) — 2026-10-04
 
 ### 기타
