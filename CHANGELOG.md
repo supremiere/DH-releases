@@ -2,6 +2,12 @@
 
 DungeonHelper Windows 배포 버전의 변경사항입니다. 최신 버전부터 정리합니다.
 
+## [v0.7.13](https://github.com/supremiere/DH-releases/releases/tag/v0.7.13) — 2026-10-09
+
+### 수정
+
+- 던전 구역을 층별로 합산하고 대시보드 판수를 실제 완료 기준으로 수정 (`7475a1e`)
+
 ## [v0.7.12](https://github.com/supremiere/DH-releases/releases/tag/v0.7.12) — 2026-10-09
 
 ### 수정
