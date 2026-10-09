@@ -2,6 +2,12 @@
 
 DungeonHelper Windows 배포 버전의 변경사항입니다. 최신 버전부터 정리합니다.
 
+## [v0.7.12](https://github.com/supremiere/DH-releases/releases/tag/v0.7.12) — 2026-10-09
+
+### 수정
+
+- AI 위치 판정과 선택 던전을 함께 사용해 완료 판수 분류 안정화 (`c121b00`)
+
 ## [v0.7.11](https://github.com/supremiere/DH-releases/releases/tag/v0.7.11) — 2026-10-04
 
 ### 수정
