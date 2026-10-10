@@ -2,6 +2,17 @@
 
 DungeonHelper Windows 배포 버전의 변경사항입니다. 최신 버전부터 정리합니다.
 
+## [v0.7.14](https://github.com/supremiere/DH-releases/releases/tag/v0.7.14) — 2026-10-10
+
+### 수정
+
+- preserve dungeon completion evidence independently of bag reads and logs (`1de1dea`)
+- count the cleared dungeon before waiting for retry (`b636fd5`)
+
+### 기타
+
+- preserve original workflow line endings (`7492fae`)
+
 ## [v0.7.13](https://github.com/supremiere/DH-releases/releases/tag/v0.7.13) — 2026-10-09
 
 ### 수정
