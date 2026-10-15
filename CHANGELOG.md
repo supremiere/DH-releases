@@ -2,6 +2,17 @@
 
 DungeonHelper Windows 배포 버전의 변경사항입니다. 최신 버전부터 정리합니다.
 
+## [v0.7.16](https://github.com/supremiere/DH-releases/releases/tag/v0.7.16) — 2026-10-16
+
+### 수정
+
+- 보스전 컷씬 스킵 이미지 인식 개선 (`93e44ac`)
+- 보스전 오프닝 콤보 궁극기 사용 로직 개선 (`b00a1b0`)
+
+### 기타
+
+- 버전을 0.7.16으로 올림 (`1b4d5a5`)
+
 ## [v0.7.14](https://github.com/supremiere/DH-releases/releases/tag/v0.7.14) — 2026-10-10
 
 ### 수정
