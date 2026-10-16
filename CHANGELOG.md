@@ -2,6 +2,22 @@
 
 DungeonHelper Windows 배포 버전의 변경사항입니다. 최신 버전부터 정리합니다.
 
+## [v0.7.17](https://github.com/supremiere/DH-releases/releases/tag/v0.7.17) — 2026-10-17
+
+### 수정
+
+- recover server disconnects during leader entry preparation (`69cbd0d`)
+
+### 추가
+
+- add four-player leader in-dungeon retry mode (`449d2a9`)
+- authorize special Discord users through existing remote D1 allowlist (`80f5805`)
+- add isolated admin API for special Discord access management (`0eea6d0`)
+
+### 기타
+
+- release integrated changes as v0.7.17 (`d0d5f1a`)
+
 ## [v0.7.16](https://github.com/supremiere/DH-releases/releases/tag/v0.7.16) — 2026-10-16
 
 ### 수정
