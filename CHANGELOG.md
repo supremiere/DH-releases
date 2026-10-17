@@ -2,6 +2,17 @@
 
 DungeonHelper Windows 배포 버전의 변경사항입니다. 최신 버전부터 정리합니다.
 
+## [v0.7.18](https://github.com/supremiere/DH-releases/releases/tag/v0.7.18) — 2026-10-17
+
+### 수정
+
+- dismiss disconnect popups throughout party loops and resume current phase (`b5f4213`)
+- enable popup guard for all Abyss roles without blocking capture (`cd688f6`)
+
+### 기타
+
+- release Abyss popup recovery as v0.7.18 (`9742c1e`)
+
 ## [v0.7.17](https://github.com/supremiere/DH-releases/releases/tag/v0.7.17) — 2026-10-17
 
 ### 수정
