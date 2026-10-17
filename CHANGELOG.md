@@ -2,6 +2,16 @@
 
 DungeonHelper Windows 배포 버전의 변경사항입니다. 최신 버전부터 정리합니다.
 
+## [v0.7.19](https://github.com/supremiere/DH-releases/releases/tag/v0.7.19) — 2026-10-17
+
+### 수정
+
+- dismiss disconnect popups throughout dungeon runs without resetting progress (`2210cb3`)
+
+### 기타
+
+- release dungeon popup recovery as v0.7.19 (`fd356aa`)
+
 ## [v0.7.18](https://github.com/supremiere/DH-releases/releases/tag/v0.7.18) — 2026-10-17
 
 ### 수정
