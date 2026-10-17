@@ -2,6 +2,16 @@
 
 DungeonHelper Windows 배포 버전의 변경사항입니다. 최신 버전부터 정리합니다.
 
+## [v0.7.20](https://github.com/supremiere/DH-releases/releases/tag/v0.7.20) — 2026-10-17
+
+### 수정
+
+- resume dungeon and Abyss loops five seconds after disconnect confirmation (`fcdbd1a`)
+
+### 기타
+
+- release fixed reconnect pause as v0.7.20 (`2b77158`)
+
 ## [v0.7.19](https://github.com/supremiere/DH-releases/releases/tag/v0.7.19) — 2026-10-17
 
 ### 수정
