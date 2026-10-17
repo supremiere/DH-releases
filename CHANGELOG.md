@@ -2,6 +2,16 @@
 
 DungeonHelper Windows 배포 버전의 변경사항입니다. 최신 버전부터 정리합니다.
 
+## [v0.7.21](https://github.com/supremiere/DH-releases/releases/tag/v0.7.21) — 2026-10-17
+
+### 수정
+
+- restart Abyss entry after reconnecting to Imemaha and preserve dungeon progress (`cbef3ec`)
+
+### 기타
+
+- release location-aware Abyss recovery as v0.7.21 (`9677df2`)
+
 ## [v0.7.20](https://github.com/supremiere/DH-releases/releases/tag/v0.7.20) — 2026-10-17
 
 ### 수정
