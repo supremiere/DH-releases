@@ -2,6 +2,12 @@
 
 DungeonHelper Windows 배포 버전의 변경사항입니다. 최신 버전부터 정리합니다.
 
+## [v1.1.5](https://github.com/supremiere/DH-releases/releases/tag/v1.1.5) — 2026-10-19
+
+- 함께하기 입장 후 파티원이 부족할 때 표시되는 도전하기 버튼을 최대 5초 동안 확인하고, 발견하면 즉시 클릭합니다.
+- 도전하기 이미지를 기존 입장 버튼과 같은 기준 배율 및 인식 방식으로 처리합니다.
+- 혼자하기의 기존 입장 및 추가 입장 확인 흐름은 유지합니다.
+
 ## [v1.1.4](https://github.com/supremiere/DH-releases/releases/tag/v1.1.4) — 2026-10-18
 
 ### 물길 입구 보정 검증 반복 수정
